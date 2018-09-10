@@ -1,0 +1,3 @@
+﻿  client.cpp
+a:\projects\current\c++\vulture\bootstrap-server\client.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  bootstrap-server.vcxproj -> A:\Projects\Current\C++\vulture\Debug\bootstrap-server.exe
