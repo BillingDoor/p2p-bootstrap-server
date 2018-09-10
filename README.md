@@ -39,5 +39,5 @@ I do not encourage the usage of this server for anything illegal, it was simply 
 
 ## Libraries
 <ul>
-  <li>CryptoPP</li>
+  <li>nlohmann - json</li>
 </ul>
