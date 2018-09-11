@@ -11,16 +11,6 @@
 
 #pragma comment(lib, "Ws2_32.lib")
 
-#include <cryptopp/rsa.h>
-#include <cryptopp/files.h>
-#include <cryptopp/osrng.h>
-#include <cryptopp/base64.h>
-#include <cryptopp/aes.h>
-#include <cryptopp/modes.h>
-#include <cryptopp/filters.h>
-#include <cryptopp/hex.h>
-
-
 #define PORT "22018"
 
 #include "logger.h"
